@@ -1,1 +1,4 @@
 Currently requires OSX (obviously), Python and the MacFSEvents library from http://pypi.python.org/pypi/MacFSEvents/0.2.4
+
+Monitoring is path-based, so simply execute:
+>> python watch_coffee_files.py [PATH]
